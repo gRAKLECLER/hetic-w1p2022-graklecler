@@ -1,0 +1,34 @@
+.title1 {
+  font-size: 40px;
+  margin-left: -120px;
+  margin-right: 50px;
+}
+
+header {
+  display: flex;
+  margin: 20px;
+  flex-direction: row;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+}
+
+.return {
+  width: 10%;
+  margin-left: 25px;
+  color: brown;
+}
+
+a {
+  width: 25%;
+  text-decoration: none;
+  color: brown;
+}
+
+li {
+  margin: 20px;
+  display: inline;
+  font-size: 18px;
+  color: brown;
+  list-style: none;
+}
